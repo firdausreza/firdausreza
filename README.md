@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Reza Firdaus</h1>
-<h3 align="center">A lifelong learner in Web Development, a frontend development enthusiast. I'm also interested in Game Development.</h3>
+<h1 align="left">Hi 👋, I'm Reza Firdaus</h1>
+<h3 align="left">A lifelong learner in Web Development, a frontend development enthusiast. I'm also interested in Game Development.</h3>
 
 - 🌱 I’m currently learning **Laravel stacks and React JS**
 
