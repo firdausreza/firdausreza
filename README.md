@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Laravel stacks and React JS**
 
-- 👨‍💻 All of my projects are available at [https://rezafirdaus.vercel.app/](https://rezafirdaus.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://rezafirdaus.vercel.app/](https://firdausreza.vercel.app/)
 
 - 📫 How to reach me **mhmmdrezalif@gmail.com**
 
